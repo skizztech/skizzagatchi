@@ -86,6 +86,6 @@ Wiring:
 | **Button** | One leg   | **GPIO 0**   |
 |            | Other leg | **GND**      |
 
-
+![image alt](https://github.com/scoutpoltorak-wq/skizzagatchi/blob/b95f2fa5e6a06efe2af84abdd25204e5a2e1890f/IMG_3879.jpg)
 
 
