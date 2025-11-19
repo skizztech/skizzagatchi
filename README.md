@@ -1,4 +1,4 @@
-Skizzagatchi
+Skizzagatchi !work in progress!
 
 A tiny virtual-pet inspired project built using an ESP32-S3 SuperMini, a 0.49" OLED display (64×32), and a simple button switch.
 Skizzagatchi is a pocket-sized frog creature that eats, sleeps, levels up, and comes to life on an incredibly small screen.
