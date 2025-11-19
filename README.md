@@ -73,3 +73,19 @@ Custom pixel pets or skins
 
 All animations are drawn using Adafruit GFX and SSD1306 libraries.
 The project is designed to be memory-light and ESP32-friendly, with efficient timers and sprite handling.
+
+Wiring:
+| Device     | Pin       | ESP32-S3 Pin |
+| ---------- | --------- | ------------ |
+
+| **OLED**   | VCC       | **3.3V**     |
+|            | GND       | **GND**      |
+|            | SCL       | **GPIO 9**   |
+|            | SDA       | **GPIO 8**   |
+
+| **Button** | One leg   | **GPIO 0**   |
+|            | Other leg | **GND**      |
+
+
+
+
