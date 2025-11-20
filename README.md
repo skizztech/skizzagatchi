@@ -70,6 +70,9 @@ Button-driven menus
 Custom pixel pets or skins
 
 🛠 Code
+download skizzagatchi v3.ino put it in arduino ide and install all the libraries then flash it 
+
+hold down the button for two seconds to help fix his mood!
 
 All animations are drawn using Adafruit GFX and SSD1306 libraries.
 The project is designed to be memory-light and ESP32-friendly, with efficient timers and sprite handling.
@@ -83,7 +86,7 @@ Wiring:
 |            | SCL       | **GPIO 9**   |
 |            | SDA       | **GPIO 8**   |
 
-| **Button** | One leg   | **GPIO 0**   |
+| **Button** | One leg   | **GPIO 3**   |
 |            | Other leg | **GND**      |
 
 ![image alt](https://github.com/scoutpoltorak-wq/skizzagatchi/blob/b95f2fa5e6a06efe2af84abdd25204e5a2e1890f/IMG_3879.jpg)
